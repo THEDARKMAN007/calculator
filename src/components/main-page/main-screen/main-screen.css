@@ -1,0 +1,20 @@
+.main-screen {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  margin-top: 2em;
+  font-size: 5rem;
+  row-gap: 0.4em;
+  width: 100% - 1rem;
+  padding-right: 1rem;
+}
+
+.display1 {
+  color: grey;
+  font-size: 3rem;
+  overflow-wrap: break-word;
+}
+
+.display2 {
+  color: black;
+}
